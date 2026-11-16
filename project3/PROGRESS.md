@@ -19,7 +19,7 @@
 - Blocked: nothing
 
 ## Session 4 · Mon 16 Nov
-- Done: README complete; check_project.py READY; RUBRIC.md self column; tag dp3-submit
+- Done: README peer test: my reader followed How to run from a fresh clone and ran it successfully with no questions; nothing needed fixing. README complete; check_project.py READY; RUBRIC.md self column; tag dp3-submit
 - Raw records so far: 124,077
 - Next: submit on Canvas
 - Blocked: nothing
